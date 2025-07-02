@@ -1,7 +1,7 @@
 import nbformat
 
 # Load the notebook
-path = "Monolingual_english.ipynb"
+path = "Zeroshot.ipynb"
 nb = nbformat.read(path, as_version=nbformat.NO_CONVERT)
 
 # Check and remove widgets metadata if present
